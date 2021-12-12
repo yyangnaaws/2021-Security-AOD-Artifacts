@@ -1,0 +1,1 @@
+the 2 lambda in the repo is for transfer the data from cloudwatch metric and S3 bucket to the OpenSearch service as describe in the PPT "2021 Security AOD Artifacts Yang Yang GCR IoT Consultant-login yyangna"
